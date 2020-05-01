@@ -1,5 +1,4 @@
-
-typedef unsigned int uint32_t;
+#include"../common/common.h"
 
 uint32_t swap(uint32_t *ptr, uint32_t v)
 {

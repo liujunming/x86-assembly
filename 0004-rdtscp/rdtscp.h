@@ -1,6 +1,4 @@
-typedef unsigned short uint16_t;
-typedef unsigned int uint32_t;
-typedef unsigned long uint64_t;
+#include"../common/common.h"
 
 uint16_t get_pcpu_id(void)
 {
